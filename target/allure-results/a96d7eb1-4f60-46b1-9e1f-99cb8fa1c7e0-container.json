@@ -1,0 +1,1 @@
+{"uuid":"a96d7eb1-4f60-46b1-9e1f-99cb8fa1c7e0","name":"GoToProductFromCart()","children":["c16e6846-9399-4f35-b81f-54112017f87b"],"befores":[],"afters":[{"name":"clearCookiesStorage","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1650981369326,"stop":1650981377141}],"links":[],"start":1650981315920,"stop":1650981377149}
